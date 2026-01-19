@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: iflow-mcp_grahammcbain_mcpizza
-Version: 0.1.0
+Version: 0.1.1
 Summary: MCP server for ordering pizza through Domino's API
 Author-email: MCP Pizza <mcpizza@example.com>
 License: MIT

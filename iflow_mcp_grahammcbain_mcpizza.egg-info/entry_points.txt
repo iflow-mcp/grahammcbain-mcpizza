@@ -1,2 +1,2 @@
 [console_scripts]
-iflow-mcp-grahammcbain-mcpizza = mcpizza.server:main
+iflow-mcp-grahammcbain-mcpizza = mcpizza.server:run

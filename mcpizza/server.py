@@ -642,6 +642,10 @@ def create_server() -> Server:
 
     return server
 
+def run():
+    """Synchronous entry point for uvx"""
+    asyncio.run(main())
+
 async def main():
     """Run the server"""
     server = create_server()
@@ -656,4 +660,4 @@ async def main():
         )
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    run()
